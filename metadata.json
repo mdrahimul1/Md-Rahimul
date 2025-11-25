@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Admin Panel",
+  "description": "A modern, responsive admin panel dashboard built with React, TypeScript, and Tailwind CSS. It features data visualizations and integrates with the Gemini API to provide AI-powered insights and report summaries.",
+  "requestFramePermissions": []
+}
